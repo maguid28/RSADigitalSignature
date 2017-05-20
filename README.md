@@ -1,6 +1,6 @@
 # RSADigitalSignature
 
-This is my implementation of a digital signature using RSA.
+This is my implementation of a digital signature using RSA in Java.
 
 The public/private RSA key pair are set up as follows:
 
